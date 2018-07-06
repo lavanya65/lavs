@@ -14,6 +14,7 @@ public class ArrayListExample {
 		list.add("prasanna");
 		list.add("rishitha");
 		list.add("naresh");
+		list.add("naresh");
 		list.add("lavanya");
 		list.add("navven");
 		list.add("prasanna");
