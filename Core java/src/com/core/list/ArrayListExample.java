@@ -19,6 +19,7 @@ public class ArrayListExample {
 		list.add("navven");
 		list.add("prasanna");
 		System.out.println(list);
+		System.out.println(list);
 		
 		/*Collections.sort(list);
 		//System.out.println(list);
